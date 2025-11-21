@@ -92,3 +92,7 @@ The function `monte_carlo_influence()`:
 * Computes summary statistics (mean, max, min)
 
 This is the core Monte Carlo engine.
+
+By Govind Bansal
+229309254
+IOT A 
